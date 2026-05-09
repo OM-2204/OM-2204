@@ -1,6 +1,22 @@
-# 💫 About Me:
-🔭 I’m currently working on improving my skills in Machine Learning and building small projects to apply what I learn.<br><br>👯 I’m looking to collaborate on beginner-friendly Machine Learning, Data Science, or web-based projects.<br><br>🤝 I’m looking for help with improving my understanding of advanced ML concepts and real-world project implementation.<br><br>🌱 I’m currently learning Machine Learning, Python libraries like NumPy, Pandas, and exploring data-driven problem solving.<br><br>💬 Ask me about Python basics, Machine Learning learning resources, gaming, badminton, and cricket.<br><br>⚡ Fun fact: I’m a BTech Mining Engineering student at NIT Rourkela who enjoys combining technology with problem solving, and I love playing video games and sports in my free time.<br>
-
+## 👤 About Me
+ 
+I am a B.Tech student in Mining Engineering at the **National Institute of Technology Rourkela**, with a focused interest in **Machine Learning and Data Science**. My academic background in engineering has strengthened my analytical thinking and problem-solving approach — qualities I actively apply to building data-driven solutions.
+ 
+My journey into ML began with curiosity about how data can be transformed into meaningful decisions. Since then, I have developed hands-on experience with Python and its core scientific stack — including **NumPy, Pandas, Scikit-learn, TensorFlow, and Keras** — and I continue to deepen my understanding of model development, experimentation tracking, and deployment workflows.
+ 
+<br>
+**What I am currently focused on:**
+ 
+- 🔬 &nbsp;Building end-to-end ML projects to bridge the gap between theory and real-world implementation
+- 📊 &nbsp;Strengthening my foundation in data preprocessing, feature engineering, and model evaluation
+- ☁️ &nbsp;Exploring cloud platforms (AWS, Azure) and MLOps tooling (MLflow, Docker) for scalable ML workflows
+**What I am looking for:**
+ 
+- 🤝 &nbsp;Collaboration on beginner-to-intermediate **Machine Learning, Data Science, or data-driven web projects**
+- 💡 &nbsp;Mentorship and guidance on advanced ML concepts and production-level project architecture
+**Beyond the screen**, I enjoy competitive gaming, badminton, and cricket — sports that, much like data science, reward pattern recognition and strategic thinking.
+ 
+---
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/17Kc9bZiSM/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_._.aryxn._._?igsh=MWYzeG92czBtdXQwcQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/om-prakash-mallick-283483366) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryanmallick87@gmail.com) 
